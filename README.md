@@ -1,4 +1,4 @@
-Retrieval-augmented generation Using OpenAi and MongoDB.
+## Retrieval-augmented generation Using OpenAi and MongoDB.
 
 To Run this notebook first install the necessary libraries using the requirements.txt 
 
